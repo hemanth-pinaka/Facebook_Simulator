@@ -1,0 +1,83 @@
+update
+reload
+eclipse
+reload
+update
+reload
+eclipse
+update
+eclipse
+reload
+update
+reload
+eclipse
+exit
+update
+reload
+eclipse
+reload
+update
+eclipse
+update
+reload
+eclipse
+update
+reload
+eclipse
+run FaceBookServer.scala
+run FaceBookServer.scala 100
+run Simulators.scala 100
+reload
+update
+eclipse
+run
+run 100
+exit
+reload
+update
+eclipse
+run FacebookServer.scala 100
+reload
+update
+eclipse
+run FacebookServer.scala 100
+run FacebookServer.scala 
+run
+run 100
+reload
+update
+eclipse
+compile
+run 
+eclipse
+run 
+run 1000
+run
+run 5000
+run
+run 5000
+run 10000
+run
+run 10000
+run 20000
+run
+run 25000
+compile
+run 25000
+run 100
+run 10000
+run 100000
+run 
+run 50000
+run
+compile
+run
+run 10000
+run
+run 50000
+compile
+run
+run 30000
+run 25000
+run
+run 10000
